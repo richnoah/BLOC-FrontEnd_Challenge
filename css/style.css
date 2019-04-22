@@ -69,7 +69,10 @@
 
 .station{
   font-size: 17px;
-  margin-left: 10px;
+  margin-left: 95px;
+  font-weight: bold;
+  display: flex;
+
 }
 
 .map-container{
